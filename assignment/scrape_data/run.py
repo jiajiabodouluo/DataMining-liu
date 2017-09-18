@@ -32,9 +32,6 @@ for computer in data:
     
     facebook  = computer.findNext('td',{'class':'stats'})        # find facebook fans number         
     facebook_fans = facebook.findNext('span').text
-    
-    twitter  = computer.findNext('td',{'class':'stats'})         # find twitter fans number
-    twitter_fans = twitter.findNext('span').text
        
     Alexa  = computer.findNext('td',{'class':'stats alx'})       # find Alexa rank
     Alexa_Rank = Alexa.findNext('span').text
@@ -43,12 +40,11 @@ for computer in data:
     person_dict['Rank'] = rank.strip()
     person_dict['Name'] = name.strip()
     person_dict['Facebookfans'] = facebook_fans.strip()
-    person_dict['Twitterfans'] = twitter_fans.strip()
     person_dict['Alexa rank'] = Alexa_Rank.strip()
     details.append(person_dict) 
 #    time.sleep(random.randint(0,3))       
 
 with open('output.json', 'w+') as f:                             # write data into json file
-    jsonData = json.dumps(details,indent=1)     
-    f.write(jsonData)
+    output = json.dumps(details,indent=1)     
+    f.write(output)
 print(details)
