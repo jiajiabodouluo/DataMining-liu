@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @jiajiabodouluo
- Sign out
- Watch 1
-  Star 0  Fork 1 StevOK/DataMining-Kundert
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathDataMining-Kundert/Assignments/process_single_lot/2012-12-16_12_05_07.xml
-514ca43  21 hours ago
-@StevOK StevOK Add files via upload
-1 contributor
-RawBlameHistory     
-367 lines (367 sloc)  9.21 KB
 <?xml version="1.0"?>
 <parking id="ufpr04">
   <space id="1" occupied="1">
@@ -383,15 +365,4 @@ RawBlameHistory
     </contour>
   </space>
 </parking>
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
+
