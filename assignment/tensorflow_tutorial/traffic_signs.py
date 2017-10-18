@@ -1,5 +1,7 @@
 """
 Steven Kundert
+Jiaxing Liu
+Prakriti
 CMPS 5443 - Data Mining - Griffin
 Assignment 7 - More TensorFlow - Traffic Signs
 10/18/17
