@@ -3,7 +3,7 @@
 """
 Created on Wed Oct  4 17:08:07 2017
 
-@author: prakritipandey, Jiaxing liu
+@author: prakritipandey, Jiaxing liu ,Steven
 """
 import cv2
 import os
