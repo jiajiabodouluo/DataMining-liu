@@ -7,7 +7,7 @@
 
 #### Powerpoint
 
-![My Powerpoint Presentation](http://google.com)
+![My Powerpoint Presentation](https://github.com/jiajiabodouluo/Leetcode/blob/master/image/ResNet%20.pptx)
 
 #### Contributed Words
 
