@@ -11,6 +11,8 @@
 
 #### Contributed Words
 
-1. [Convolutional-Neural-Net](https://github.com/rugbyprof/5443-Data-Mining/wiki/Convolutional-Neural-Net)
-2. [Convolutions](https://github.com/rugbyprof/5443-Data-Mining/wiki/Convolutions) 
-3. etc.
+1. [Result-on-imagenet](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#result-on-imagenet)
+2. [Degradation](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#1degradation) 
+3. [Residual-learning](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#2residual-learning) 
+4. [Shortcut-connections](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#3shortcut-connections) 
+5. [Layers-of-resnet](https://github.com/rugbyprof/5443-Data-Mining/wiki/Microsoft-ResNet#4layers-of-resnet) 
