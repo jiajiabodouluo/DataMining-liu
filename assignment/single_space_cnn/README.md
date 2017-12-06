@@ -2,7 +2,7 @@ Single Parking Space Classification
 ==============================
 Due: Dec 6, 2017
 
-- ***Name:*** Steven Kundert
+- ***Name:*** Jiaxing Liu
 - ***Roster Number:*** 1
 
 |   #   |Group Names |
